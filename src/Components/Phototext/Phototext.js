@@ -17,7 +17,10 @@ const Phototext = () => {
                     'Data Analyst', 3000,
                     'and Python Enthusiast', 3000,
                     'Learning MERN', 3000
-                ]} loop={Infinity} className="typical" /></h1>
+                ]} loop={Infinity} className="typical" />
+            <p data-aos="fade-up" style={{color:'red'}}>
+                Currently in development stage...
+            </p></h1>
         </div>
     )
 }
